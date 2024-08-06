@@ -51,25 +51,49 @@ button{
     font-weight: 600;
     border-radius: 5px;
     cursor: pointer;
+    border: none;
 }
 
 .btn-yellow{
     background-color: yellow;
 }
 
+.btn-yellow:hover{
+    background-color: rgb(247, 247, 152);
+}
+
 .btn-grey{
     background-color: grey;
 }
 
-.btn-equals{
+.btn-grey:hover{
+    background-color: rgb(218, 192, 192);
+}
+
+#equals{
     background-color: green;
+}
+
+#equals:hover{
+    background-color: rgb(13, 145, 221);
 }
 
 .btn-clear{
     background-color: red;
 }
 
+.btn-clear:hover{
+    background-color: rgb(250, 36, 36);
+}
 
+.delete{
+    /*display: flex;
+    width: 100%;
+    gap: 10px;*/
+}
+#delete:hover{
+    background-color: wheat;
+}
 
 
 
