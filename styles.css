@@ -91,7 +91,7 @@ button{
 @media (max-width: 600px) {
     body{
         background-color: #1E2227;
-        height: 100%;
+        max-height: 880px;
     }
     .calculator{
         width: 100%;
