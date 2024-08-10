@@ -90,7 +90,7 @@ button{
 
 @media (max-width: 600px) {
     body{
-        background-color: rgb(21, 255, 0);
+        background-color: #1E2227;
         height: 100%;
     }
     .calculator{
